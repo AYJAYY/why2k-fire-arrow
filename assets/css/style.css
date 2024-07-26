@@ -1,13 +1,14 @@
 @font-face {
 	font-family: 'FORCED SQUARE';
 	src: url('../font/FORCEDSQUARE.woff2') format('woff2'),
-		 url('../font/FORCEDSQUARE.woff') format('woff');
+		url('../font/FORCEDSQUARE.woff') format('woff');
 	font-weight: 500;
 	font-style: normal;
 	font-display: swap;
 }
 
-html, body {
+html,
+body {
 	margin: 0;
 	padding: 0;
 	width: 100%;
@@ -84,7 +85,7 @@ li {
 	width: 230px;
 }
 
-#right-side > .name {
+#right-side>.name {
 	text-align: right;
 }
 
@@ -120,12 +121,20 @@ li {
 	color: white;
 }
 
+.link-color-1 {
+	color: #e39500;
+}
+
 .link-color-2 {
 	color: #6797ff;
 }
 
 .link-color-3 {
 	color: #65faed;
+}
+
+.link-color-4 {
+	color: #eebf00;
 }
 
 .link-color-5 {
@@ -136,12 +145,8 @@ li {
 	color: #65fa6c;
 }
 
-.link-color-1 {
-	color: #e39500;
-}
-
-.link-color-4 {
-	color: #eebf00;
+.link-color-7 {
+	color: #8B3EBF;
 }
 
 .v-separator {
@@ -189,7 +194,7 @@ li {
 		width: auto;
 	}
 
-	#extra > * {
+	#extra>* {
 		text-align: center;
 		float: none;
 	}
