@@ -1,5 +1,5 @@
 @font-face {
-	font-family: 'FORCED SQUARE';
+	font-family: 'Inconsolata-Regular';
 	src: url('../font/Inconsolata-Regular.woff2') format('woff2'),
 		url('../font/Inconsolata-Regular.woff') format('woff');
 	font-weight: 500;
@@ -15,7 +15,7 @@ body {
 	height: 100%;
 	background: #1b1b1b;
 
-	font-family: 'FORCED SQUARE';
+	font-family: 'Inconsolata-Regular';
 }
 
 body {
