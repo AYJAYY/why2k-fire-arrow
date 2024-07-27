@@ -41,7 +41,7 @@ a {
 
 hr {
 	border: 0;
-	border-top: 1px dotted #050505;
+	border-top: 1px dotted #dfdfdf;
 }
 
 ul {
@@ -55,7 +55,7 @@ li {
 }
 
 #container {
-	border: 1px solid #2f2f2f;
+	border: 1px solid #dfdfdf;
 	width: 750px;
 	height: 380px;
 
@@ -149,7 +149,7 @@ li {
 }
 
 .v-separator {
-	border-left: 1px dotted #2f2f2f;
+	border-left: 1px dotted #dfdfdf;
 }
 
 .justify {
@@ -203,7 +203,7 @@ li {
 	}
 
 	.v-separator {
-		border-bottom: 1px dotted #050505;
+		border-bottom: 1px dotted #dfdfdf;
 		margin-top: 5px;
 	}
 }
