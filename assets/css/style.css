@@ -1,7 +1,7 @@
 @font-face {
 	font-family: 'FORCED SQUARE';
-	src: url('../font/FORCEDSQUARE.woff2') format('woff2'),
-		url('../font/FORCEDSQUARE.woff') format('woff');
+	src: url('../font/Inconsolata-Regular.woff2') format('woff2'),
+		url('../font/Inconsolata-Regular.woff') format('woff');
 	font-weight: 500;
 	font-style: normal;
 	font-display: swap;
