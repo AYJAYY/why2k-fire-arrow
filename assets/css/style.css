@@ -26,12 +26,12 @@ body {
 
 * {
 	filter: contrast(1);
-	line-height: 14.4px;
+	line-height: 15.4px;
 }
 
 div {
 	color: rgb(219, 211, 211);
-	font-size: 15px;
+	font-size: 13px;
 }
 
 a {
