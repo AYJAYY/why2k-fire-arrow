@@ -1,5 +1,5 @@
 @font-face {
-	font-family: 'Inconsolata-Regular';
+	font-family: 'Inconsolata-Regular'; 
 	src: url('../font/Inconsolata-Regular.woff2') format('woff2'),
 		url('../font/Inconsolata-Regular.woff') format('woff');
 	font-weight: 500;
